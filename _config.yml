@@ -1,3 +1,5 @@
-name: Your New Jekyll Site
+name: hanzheng.github.io
 markdown: redcarpet
 pygments: true
+safe: true
+lsi: false
