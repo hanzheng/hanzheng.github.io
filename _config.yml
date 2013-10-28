@@ -1,6 +1,28 @@
-name: hanzheng.github.io
-markdown: redcarpet
+# General Jekyll Config
 pygments: true
-safe: true
+url: http://hanzheng.github.io
 lsi: false
-comments: true
+exclude: [LICENSE, CNAME, README.md, .gitignore]
+comment: true
+
+# Theme customization - please change from the defaults!
+theme:
+  # Color for top bar, links, etc
+  highlight_color: '#3498db'
+
+  # Profile links on the left sidebar, leave blank to ignore
+  social:
+    github: hanzheng
+    twitter: hannzheng
+    # hacker_news: swanson
+
+  # "Hi, I'm _______"
+  name: Han Zheng
+  email: hanzhengking6@gmail.com
+  tagline: "Code better, Live better"
+
+  # Google Analytics key, leave blank to ignore
+  google_analytics_key: UA-xxxx-x
+
+  # Toggle "Postings are my own" disclaimer in footer
+  show_disclaimer: true
