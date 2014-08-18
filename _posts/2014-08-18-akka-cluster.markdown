@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Akka cluster介绍"
+date:   2014-08-18 14:39:01
+categories: tech
+---
+
 #akka cluster介绍
 
 Akka Cluster提供了一个可容错、去中心化的，基于点对点的集群成员服务（membership service），解决了单点故障和单点瓶颈问题。
