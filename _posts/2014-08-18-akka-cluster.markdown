@@ -54,7 +54,7 @@ Vector clocks are a type of data structure and algorithm for generating a partia
 We use vector clocks to reconcile and merge differences in cluster state during gossiping. A vector clock is a set of (node, counter) pairs. Each update to the cluster state has an accompanying update to the vector clock.
 --->
 
-`Vector clocks`是一种用来在集群中生成部分有序的事件并检测因果性冲突的数据结构和算法。
+`Vector clocks`是一种用来在集群中生成偏序的事件并检测因果性冲突的数据结构和算法。
 
 在'gossip'的过程中，Akka集群使用`vector clocks`来合并集群状态并使其一致。一个`vector clock`是一个`(node, counter)`对。每一次对集群状态的更新都有一个对应的`vector clock`更新。
 
