@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "【翻译】How do I “think in AngularJS” if I have a jQuery background?" 
+description: "这篇文章是来自stackoverflow的一个答案，讲述了有jquery背景的工程师如何尽快的上手angularjs，以及angularjs的一些最佳实践。"
 date:   2013-10-28 18:45:00
 categories: tech angularjs
 ---
@@ -289,5 +290,7 @@ AngularJS拥有一整套工具使这个过程非常简单;有了ngClass我们可
 
 
 希望这个答案对你有用。
+
+本文被InfoQ中文站收录。
 
 
