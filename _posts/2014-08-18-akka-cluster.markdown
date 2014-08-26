@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Akka cluster介绍"
+description: "来自akka官方文档中关于cluster的部分。介绍了akka使用的通信协议gossip，说明了akka如何保证在大规模集群中如何确保高可用性。"
 date:   2014-08-18 14:39:01
 categories: tech
 ---
