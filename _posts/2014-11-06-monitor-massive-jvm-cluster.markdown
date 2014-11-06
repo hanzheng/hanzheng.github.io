@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Monitor massive jvm cluster"
+title:  "一种用以监控海量java虚拟机应用集群的架构"
 description: "基于开源免费的工具搭建一个中大型java虚拟机集群的监控系统，使用的工具包括Codahale Metrics，Jolokia，REST Commander，Grafana，简要描述了其架构。"
 date:   2014-11-06 16:31:01
 categories: tech
