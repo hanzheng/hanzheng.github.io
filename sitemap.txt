@@ -3,3 +3,4 @@ http://hanzheng.github.io/tech/angularjs/2013/10/28/translate-how-do-i-in-angula
 http://hanzheng.github.io/tech/design/2013/11/05/linq-equivalents-in-java.html
 http://hanzheng.github.io/tech/2014/08/18/akka-cluster.html
 http://hanzheng.github.io/tech/2014/08/19/vector-clock.html
+http://hanzheng.github.io/tech/2014/11/06/monitor-massive-jvm-cluster.html
