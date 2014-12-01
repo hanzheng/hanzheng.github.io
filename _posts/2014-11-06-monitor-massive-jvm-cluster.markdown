@@ -26,4 +26,4 @@ categories: tech
  
 # 架构
 
-TODO
+![监控架构](http://hanzheng.github.io/assets/monitor_arch.png)
