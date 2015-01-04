@@ -145,10 +145,10 @@ PS.从[10]给出的例子看，编写同一个API文档，RAML最长，其他两
 >* [4]https://github.com/apiaryio/api-blueprint/blob/master/API%20Blueprint%20Specification.md
 >* [5]http://raml.org/spec.html
 >* [6]https://github.com/swagger-api/swagger-spec/blob/master/versions/2.0.md
->*[7]http://apievangelist.com/2014/03/01/api-design-tooling-from-raml/
->*[8]http://apievangelist.com/2014/02/25/api-design-tooling-from-swagger/
->*[9]http://apievangelist.com/2014/02/27/api-design-tooling-from-api-blueprint/
->*[10]http://apievangelist.com/2014/03/08/hello-world-product-api-with-blueprint-raml-and-swagger/
+>* [7]http://apievangelist.com/2014/03/01/api-design-tooling-from-raml/
+>* [8]http://apievangelist.com/2014/02/25/api-design-tooling-from-swagger/
+>* [9]http://apievangelist.com/2014/02/27/api-design-tooling-from-api-blueprint/
+>* [10]http://apievangelist.com/2014/03/08/hello-world-product-api-with-blueprint-raml-and-swagger/
 
 > 一些有意思的网站
 > * apis.io
